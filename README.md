@@ -1,4 +1,4 @@
-# IS2026 Spring - NAME OF PROJECT
+# IS2026 Summer - Aegis Sentinel
 
 Describe the project.
 Describe what are the contents of each folder - CODE, CAD, Electronics etc
