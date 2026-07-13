@@ -1,8 +1,7 @@
 # IS2026 Summer - Aegis Sentinel
 
 Describe the project.
-Describe what are the contents of each folder - CODE, CAD, Electronics etc
-
+Anti-aircraft or anti-drone system, powered by a camera which will monitor the sky and be connected to a microcontroller and a human operator.
 
 ## License
 
